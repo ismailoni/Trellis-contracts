@@ -1,5 +1,10 @@
 /target/
 **/test_snapshots/
+temp_auto_push.bat
 
 # Files delivered into this folder by the Claude desktop app
 Claude outputs/
+.gitignore
+branch_structure.json
+config.bat
+node_modules
